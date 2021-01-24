@@ -19,7 +19,9 @@ public class GroupAnagrams {
 			  
 			  if(map.containsKey(newword)) {
 				  map.get(newword).add(s);
+				  //System.out.println(map);
 			  }
+			  
 			  else
 			  {
 				  List<String> words = new ArrayList<>();

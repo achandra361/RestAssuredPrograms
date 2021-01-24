@@ -13,10 +13,9 @@ public class SubArrayExceedingSum {
 				}
 				
 			}
+			
 		}
-		if(min_length == Integer.MAX_VALUE) {
-			return -1;
-		}
+		
 		
 	  return min_length;
 	  }

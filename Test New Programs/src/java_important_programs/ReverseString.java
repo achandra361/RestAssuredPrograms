@@ -1,6 +1,5 @@
 package java_important_programs;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class ReverseString {

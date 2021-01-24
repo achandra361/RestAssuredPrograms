@@ -14,7 +14,7 @@ public class longestUniformString {
 
 		    // your code goes here
 		    if(input.length() ==0) {
-		    	System.out.println("No Argument Passed");;
+		    	return new int[]{ longestStart, longestLength };
 		    }
 		    
 		    int x= 1;
